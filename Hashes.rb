@@ -27,7 +27,8 @@ puts h.class
  
 puts h[:a], h[:b] # isso é para acessar a class hash
 
-
+# hash sempre irão ter uma chave e uma valor que vc escolhe, e a partir de qualquer momento que quiser pegar uma valor
+# vc informa a chave e ele recupera para vc um determinado valor.
 
 
 
