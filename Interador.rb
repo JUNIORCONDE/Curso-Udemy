@@ -54,5 +54,4 @@ puts a.class
 
 =end
 
-teste commit 
-
+operador ligico commit
