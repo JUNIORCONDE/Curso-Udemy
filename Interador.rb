@@ -6,14 +6,14 @@
 ### vamos criar um array, e usar aperador each para alterar os valores dentro so elemmentos
 
 
-=begin  
+=begin
 
  a = [1, 4, 8, 10, 12,]
- #puts a 
+ #puts a
 
  ### agora vamos usar o operador each
 
- a.each { |element| puts element * 2; puts element * 10 } 
+ a.each { |element| puts element * 2; puts element * 10 }
 
  ### ou podemos escrever assim também e pedir para imprimir na tela
  a.each do |el|
@@ -41,23 +41,19 @@
 =end
 
 ### escrever dentro de um vetor, precisa usar o metodo map.
-=begin
-numbers = (1..10).to_a
-puts numbers 
-puts numbers.class
-=end
 
+numbers = (1..10).to_a
+puts numbers
+puts numbers.class
+
+
+=begin
 a = (1..10)
 puts a.to_a.inspect
 puts a.class
 
+=end
 
 
 
-
-
-
-
-
-
-
+teste
