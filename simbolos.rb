@@ -1,3 +1,6 @@
+##ESTUDOS DE SIMBOLOS E HASH
+
+
 ## https://www.udemy.com/course/poo-ruby/learn/lecture/7542596#overview
 ## os simbolos são muitos utilizados para não mudar sue locação na memoria
 ## os simbolos são uma especie de string estaticas

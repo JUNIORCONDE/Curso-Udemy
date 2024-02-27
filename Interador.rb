@@ -54,4 +54,4 @@ puts a.class
 
 =end
 
-operador ligico commit
+## EXERCICIO DO INTERADOR, EACH, QDO VC TEM UM ARRAY, RANGE, VEDTORES,
